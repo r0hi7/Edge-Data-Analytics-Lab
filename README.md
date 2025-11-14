@@ -54,7 +54,7 @@ Users also receive alerts when environmental conditions exceed safe thresholds.
 *(Add your circuit diagram image inside the `assets/` folder and reference it below)*
 
 ```
-![Circuit Diagram](assets/workflow.jpg)
+![Circuit Diagram](assets/circuit_diagram.jpg)
 ```
 
 ---
@@ -84,6 +84,7 @@ You can include images after uploading them:
 ```
 ![Blynk Dashboard](assets/dashboard_screenshot.png)
 ![Hardware Setup](assets/hardware_setup.jpg)
+![Workflow](assets/workflow.jpg)
 ```
 
 ---
@@ -136,6 +137,7 @@ Smart-Room-Environment-Monitoring/
 │   ├── circuit_diagram.png
 │   ├── dashboard_screenshot.png
 │   └── hardware_setup.jpg
+│   └── workflow.jpg
 │
 └── README.md
 ```
