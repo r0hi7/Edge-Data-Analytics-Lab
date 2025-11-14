@@ -51,11 +51,7 @@ Users also receive alerts when environmental conditions exceed safe thresholds.
 
 ## 🔌 Circuit Diagram
 
-*(Add your circuit diagram image inside the `assets/` folder and reference it below)*
-
-```
 ![Circuit Diagram](assets/circuit_diagram.jpg)
-```
 
 ---
 
@@ -79,13 +75,9 @@ The full Arduino code is available in:
 
 ## 📷 Project Snapshots
 
-You can include images after uploading them:
-
-```
-![Blynk Dashboard](assets/dashboard_screenshot.png)
+![Blynk Dashboard](assets/dashboard_screenshot.jpg)
 ![Hardware Setup](assets/hardware_setup.jpg)
 ![Workflow](assets/workflow.jpg)
-```
 
 ---
 
